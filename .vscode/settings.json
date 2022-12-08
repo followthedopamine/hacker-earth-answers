@@ -41,11 +41,11 @@
     "xstddef": "cpp",
     "xstring": "cpp",
     "xtr1common": "cpp",
-    "xutility": "cpp"
-  }
-,
+    "xutility": "cpp",
+    "vector": "cpp"
+  },
   // The following will hide exe files in the editor
   "files.exclude": {
-      "**/*.exe": true,
+    "**/*.exe": true
   }
 }
